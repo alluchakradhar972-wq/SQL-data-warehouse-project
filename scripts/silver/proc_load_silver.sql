@@ -3,9 +3,12 @@
 Stored Procedure : Load the silver Layer
 =====================================================================================================
 Script Purpose :
-This script performs the ETL operations to insert the data from Bronze schema to the Silver schema
-by truncating silver layer tables and cleaning the data inside the bronze layer
-Parameters : this stored procedure doesnt accept any parameteres or return any values
+				This script performs the ETL operations to insert the data from Bronze schema to the Silver schema
+				by truncating silver layer tables and cleaning the data inside the bronze layer
+
+Parameters     : 
+				This stored procedure doesnt accept any parameteres or return any values
+To use         : EXEC silver.load_silver;
 */
 
 

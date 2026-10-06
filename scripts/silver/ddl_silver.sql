@@ -1,6 +1,10 @@
 /*
-This file creates all the tables in silver layer into which we can load the data after performing the 
-ETL(Extract,Transform,Load) operations
+=====================================================================================================
+DDL Script : Create silver Tables
+=====================================================================================================
+Script Purpose :
+				This script creates all the tables in silver schema dropping tables if they already exist
+                Run this script to redefine the DDL structure of bronze tables
 */
 
 IF OBJECT_ID('silver.crm_cust_info','U') IS NOT NULL

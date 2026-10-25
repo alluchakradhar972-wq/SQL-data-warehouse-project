@@ -198,8 +198,8 @@ I am continuously exploring opportunities to apply my technical skills, learn ne
 
 ## 🤝 Connect With Me
 
-- **LinkedIn:** [Chakradhar Allu]([https://www.linkedin.com/](https://www.linkedin.com/in/chakradhar-allu-22117a290/?isSelfProfile=true))
-- **GitHub:** [Chakradhar Allu]([https://github.com/](https://github.com/alluchakradhar972-wq))
+- **LinkedIn:** https://www.linkedin.com/in/chakradhar-allu-22117a290/?isSelfProfile=true
+- **GitHub:** https://github.com/alluchakradhar972-wq
 
 ---
 
